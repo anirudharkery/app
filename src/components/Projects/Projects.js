@@ -2,9 +2,9 @@ import React from 'react';
 import { Container, Row, Col } from "react-bootstrap";
 
 // Define project images at the top level
-const PROJECT_IMAGES = {
-  placeholder: "/api/placeholder/400/320"  // Using default placeholder
-};
+// const PROJECT_IMAGES = {
+//   placeholder: "/api/placeholder/400/320"  // Using default placeholder
+// };
 
 function Projects() {
   return (
