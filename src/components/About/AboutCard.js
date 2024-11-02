@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple"> Anirudh Arkery </span>
             from <span className="purple"> California.</span>
             <br />
-            I am currently working at  <span className="purple">stealth startup </span> as a software developer.
+            I am currently working at  <span className="purple">Stealth Startup </span> as a software developer.
             <br />
             I have completed my Maters of Science in Computer Science at Santa Clara University.   
             <br />
