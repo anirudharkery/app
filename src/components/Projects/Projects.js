@@ -29,7 +29,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={{PROJECT_IMAGES.placeholder}
+              imgPath={PROJECT_IMAGES.placeholder}
               isBlog={false}
               title="Celebrity Buzzer"
               description="Mobile application for celebrity-related interactions. A comprehensive platform that enables users to engage with celebrity content and receive real-time updates about their favorite personalities."
