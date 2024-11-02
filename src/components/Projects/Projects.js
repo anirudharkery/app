@@ -39,7 +39,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={PROJECT_IMAGES.placeholder}
+              // imgPath={PROJECT_IMAGES.placeholder}
               isBlog={false}
               title="Parking Locator App"
               description="Application to help users locate and navigate to parking spots. Features real-time availability updates, navigation assistance, and user-friendly interface for seamless parking experiences."
@@ -49,7 +49,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={PROJECT_IMAGES.placeholder}
+              // imgPath={PROJECT_IMAGES.placeholder}
               isBlog={false}
               title="MEDI-360"
               description="Comprehensive medical management platform designed to streamline healthcare processes. Integrates patient records, appointment scheduling, and medical resource management into a unified system."
