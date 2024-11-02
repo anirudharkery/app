@@ -29,7 +29,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={assets/project-img-2.jpg}
+              imgPath={Images/project-img-2.jpg}
               isBlog={false}
               title="Celebrity Buzzer"
               description="Mobile application for celebrity-related interactions. A comprehensive platform that enables users to engage with celebrity content and receive real-time updates about their favorite personalities."
