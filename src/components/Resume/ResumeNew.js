@@ -106,7 +106,7 @@ function ResumeNew() {
             variant="primary"
             href={pdfPath}
             target="_blank"
-            download="Anirudh_Arkery_Resume.pdf"
+            download="Anirudh_Arkery (1).pdf"
             style={{ 
               maxWidth: "250px",
               padding: "10px 20px",
@@ -172,7 +172,7 @@ function ResumeNew() {
             variant="primary"
             href={pdfPath}
             target="_blank"
-            download="Anirudh_Arkery_Resume.pdf"
+            download="Anirudh_Arkery (1).pdf"
             style={{ 
               maxWidth: "250px",
               padding: "10px 20px",
