@@ -19,7 +19,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={PROJECT_IMAGES.placeholder}
+              // imgPath={PROJECT_IMAGES.placeholder}
               isBlog={false}
               title="Face Detection and Attendance System"
               description="Hackathon project for automated attendance tracking using facial recognition technology. The system efficiently processes and logs attendance using advanced face detection algorithms."
