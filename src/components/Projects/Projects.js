@@ -102,6 +102,13 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
+              title="Distributed Systems Project"
+              description="Developed a video analysis system featuring a React-based frontend for capturing facial content with a Node.js backend. Implemented a distributed processing architecture using ZeroMQ and PostgreSQL to handle frame-level video analysis, enabling efficient facial recognition processing across multiple nodes."
+              ghLink="https://github.com/shaunakgalvankar/distributedSystemsProject"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
               title="Face Detection and Attendance System"
               description="Hackathon project for automated attendance tracking using facial recognition technology. The system efficiently processes and logs attendance using advanced face detection algorithms."
               ghLink="https://github.com/anirudharkery/face_mapping_2019-Hackathon"
@@ -110,7 +117,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              title="Celebrity Buzzer"
+              title="Head-Buzz"
               description="Mobile application for celebrity-related interactions. A comprehensive platform that enables users to engage with celebrity content and receive real-time updates about their favorite personalities."
               ghLink="https://github.com/anirudharkery/Celebrity-buzzer"
             />
@@ -118,7 +125,7 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              title="Parking Locator App"
+              title="ParkEase: Smart Parking Locator"
               description="Application to help users locate and navigate to parking spots. Features real-time availability updates, navigation assistance, and user-friendly interface for seamless parking experiences."
               ghLink="https://github.com/anirudharkery/Parking-App"
             />
